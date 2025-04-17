@@ -6,7 +6,7 @@ baseurl: "" # leave blank for GitHub Pages root
 url: "https://agmartincaro.github.io" # change to your GitHub Pages URL
 
 markdown: kramdown
-theme: "minimal-mistakes-jekyll"
+theme: minimal-mistakes-jekyll
 
 # Build settings
 plugins:
