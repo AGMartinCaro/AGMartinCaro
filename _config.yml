@@ -2,8 +2,8 @@ title: "Dr. Alberto G. Martin-Caro"
 email: "agmcaro@gmail.com"
 description: >-
   Theoretical physicist 
-baseurl: "" # leave blank for GitHub Pages root
-url: "https://agmartincaro.github.io/AGMartinCaro" # change to your GitHub Pages URL
+baseurl: "https://agmartincaro.github.io" # leave blank for GitHub Pages root
+url: "/AGMartinCaro" # change to your GitHub Pages URL
 
 markdown: kramdown
 remote_theme: zendesk/jekyll-theme-zendesk-garden@main
@@ -12,6 +12,9 @@ remote_theme: zendesk/jekyll-theme-zendesk-garden@main
 # Build settings
 plugins:
   - jekyll-feed
+
+sidebar:
+  - research
 
 # Navigation (optional if you want a menu)
 nav:
