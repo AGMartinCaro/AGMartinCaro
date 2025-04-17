@@ -1,0 +1,34 @@
+title: "Dr. Alberto G. Martin-Caro"
+email: "agmcaro@gmail.com"
+description: >-
+  Theoretical physicist 
+baseurl: "" # leave blank for GitHub Pages root
+url: "https://agmartincaro.github.io" # change to your GitHub Pages URL
+
+markdown: kramdown
+theme: minima
+
+# Build settings
+plugins:
+  - jekyll-feed
+
+# Navigation (optional if you want a menu)
+nav:
+  - title: "Home"
+    url: "/"
+  - title: "Research"
+    url: "/research"
+  - title: "Publications"
+    url: "/publications"
+  - title: "CV"
+    url: "/cv"
+  - title: "Contact"
+    url: "/contact"
+
+# Exclude files/folders from site build
+exclude:
+  - bibtex_to_markdown.py
+  - README.md
+
+# GitHub Pages compatibility
+github: [metadata]
