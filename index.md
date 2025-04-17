@@ -32,7 +32,7 @@ Download my [Curriculum Vitae (PDF)](assets/CV_AGMC.pdf).
 
 ## Contact
 
-- Email: [alex.maxwell@theoryinst.edu](mailto:agmcaro@gmail.com)
+- Email: [agmcaro (at) gmail.com]
 - [Google Scholar](https://scholar.google.com)
 - [GitHub](https://github.com)
 
